@@ -1,0 +1,3 @@
+[submodule "using_git/ch8/hocus"]
+	path = using_git/ch8/hocus
+	url = git://github.com/tswicegood/hocus.git
